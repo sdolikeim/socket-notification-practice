@@ -1,0 +1,18 @@
+# frontend
+frontend/node_modules
+frontend/dist
+frontend/.env
+
+# backend
+backend/build
+backend/.gradle
+backend/bin
+backend/.env
+
+# IDE
+.vscode
+.idea
+
+# OS
+.DS_Store
+Thumbs.db
